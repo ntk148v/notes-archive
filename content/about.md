@@ -13,8 +13,6 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[prometheus-tools]]
 
-- [[prometheus-prometheus-sucks]]
-
 - [[prometheus-alertmanager-ha]]
 
 - [[prometheus-prometheus-delays-on-alerting]]
