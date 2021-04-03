@@ -1,3 +1,7 @@
+---
+title: Git Tips
+---
+
 ## 1. List only untracked files
 
 ```bash

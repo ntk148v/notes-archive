@@ -1,3 +1,7 @@
+---
+title: Vim sessions
+---
+
 Check out the [document](http://vimdoc.sourceforge.net/htmldoc/usr_21.html#21.4), here is the scenario to explain how it works and how its use case.
 
 - You are editing a dozen of files, complex window layout,... but this is the end of the day, you need to quit work.
