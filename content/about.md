@@ -5,10 +5,12 @@ title: About these notes
 Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 
-- [[vim-buffers]]
+- [[git-tips-tricks.md]]
 
-- [[vim-sessions]]
+- [[vim-buffers.md]]
 
-- [[git-tips-tricks]]
+- [[about.md]]
 
-- [[prometheus-alertmanager-silence]]
+- [[prometheus-alertmanager-silence.md]]
+
+- [[vim-sessions.md]]
