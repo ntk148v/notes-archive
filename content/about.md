@@ -9,6 +9,8 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[vim-buffers]]
 
+- [[linux-recommended-software]]
+
 - [[prometheus-alertmanager-silence]]
 
 - [[vim-sessions]]
