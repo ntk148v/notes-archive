@@ -20,10 +20,8 @@ jobs:
           yarn install
 
       - name: Build and deploy 🚀
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          GH_TOKEN=${{ GITHUB_TOKEN }} yarn deploy
+          GH_TOKEN=${{ secrets.GITHUB_TOKEN }} yarn deploy
 
       - name: Push changes
         uses: github-actions-x/commit@v2.8
