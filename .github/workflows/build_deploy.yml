@@ -21,6 +21,8 @@ jobs:
 
       - name: Build and deploy 🚀
         run: |
+          git config --global user.email "kiennt2609@gmail.com"
+          git config --global user.name "Kien Nguyen-Tuan"
           GH_TOKEN=${{ secrets.GITHUB_TOKEN }} yarn deploy
 
       - name: Push changes
@@ -30,5 +32,3 @@ jobs:
           push-branch: 'master'
           commit-message: 'publish'
           force-add: 'true'
-          name: Kien Nguyen-Tuan
-          email: kiennt2609@gmail.com
