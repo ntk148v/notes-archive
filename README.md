@@ -1,3 +1,3 @@
 # @kiennt's notes
 
-> **TODO**: Clone [til](https://github.com/ntk148v/til.git) repository then generate index page and flat posts.
+[:point_right](https://ntk148v.github.io/notes/)
