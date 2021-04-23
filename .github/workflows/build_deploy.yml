@@ -35,3 +35,5 @@ jobs:
           commit-message: 'publish'
           force-add: 'true'
           rebase: 'true'
+          email: 'kiennt2609@gmail.com'
+          name: 'Kien Nguyen-Tuan'
