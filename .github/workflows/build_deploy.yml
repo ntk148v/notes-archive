@@ -34,3 +34,4 @@ jobs:
           push-branch: 'master'
           commit-message: 'publish'
           force-add: 'true'
+          rebase: 'true'
