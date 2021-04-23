@@ -7,9 +7,9 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[golang-pointer-vs-references]]
 
-- [[ocker-tips-tricks]]
+- [[docker-tips-tricks]]
 
-- [[bash-color-log.sh]]
+- [[bash-color-log]]
 
 - [[git-tips-tricks]]
 
