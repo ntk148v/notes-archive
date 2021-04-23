@@ -20,7 +20,7 @@ def main(argv):
 
     # Walk through input folder
     _, _, files = next(os.walk(folder_path))
-    files = [f.strip(".md")
+    files = [f.rstrip(".md")
              for f in files if not f.endswith('.md') or not f == "about.md"]
     # Generate the main page
     about_template = Template(
