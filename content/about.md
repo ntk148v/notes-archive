@@ -7,13 +7,15 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[golang-pointer-vs-references]]
 
-- [[docker-tips-tricks]]
+- [[ocker-tips-tricks]]
 
 - [[git-tips-tricks]]
 
 - [[linux-bin-paths]]
 
 - [[vim-buffers]]
+
+- [[linux-cpu-utilization]]
 
 - [[linux-recommended-software]]
 
