@@ -9,6 +9,8 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[ocker-tips-tricks]]
 
+- [[bash-color-log.sh]]
+
 - [[git-tips-tricks]]
 
 - [[linux-bin-paths]]
