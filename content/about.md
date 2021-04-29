@@ -4,6 +4,7 @@ title: About these notes
 
 Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
+- [[curl-response-time-format]]
 
 - [[golang-pointer-vs-references]]
 
