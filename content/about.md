@@ -15,7 +15,7 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 - [[git-tips-tricks]]
 
 - [[linux-bin-paths]]
-- 
+
 - [[linux-useful-trick]]
 
 - [[vim-buffers]]
