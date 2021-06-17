@@ -31,3 +31,5 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 - [[prometheus-alertmanager-silence]]
 
 - [[vim-sessions]]
+
+- [[python-on-legacy-environment]]
