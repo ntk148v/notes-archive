@@ -16,3 +16,4 @@ title: Linux Recommended Software
 - [polybar](https://github.com/polybar/polybar): a fast and easy-to-use status bar.
 - [rofi](https://github.com/davatorium/rofi): a window switcher, application launcher and dmenu replacement.
 - [picom](https://github.com/yshui/picom): a lightweight compositor for X11.
+- For more, check [here](https://github.com/ibraheemdev/modern-unix).
