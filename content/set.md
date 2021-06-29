@@ -6,7 +6,13 @@ Source: https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html
 
 ## 1. Intro
 
-[set](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html) command changes value of a shell option and set the positional parameters, or display the names and values of shell variables.
+`set` command changes value of a shell option and set the positional parameters, or display the names and values of shell variables.
+
+```bash
+# syntax
+set [--abefhkmnptuvxBCEHPT] [-o option-name] [argument …]
+set [+abefhkmnptuvxBCEHPT] [+o option-name] [argument …]
+```
 
 ## 2. List currently configured shell options
 
