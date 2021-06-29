@@ -4,7 +4,7 @@ title: Bash set
 
 Source: https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html
 
-## 1. Intro
+1. Intro
 
 `set` command changes value of a shell option and set the positional parameters, or display the names and values of shell variables.
 
@@ -14,7 +14,7 @@ set [--abefhkmnptuvxBCEHPT] [-o option-name] [argument …]
 set [+abefhkmnptuvxBCEHPT] [+o option-name] [argument …]
 ```
 
-## 2. List currently configured shell options
+2. List currently configured shell options
 
 ```bash
 # Type 'set -o'
@@ -202,8 +202,7 @@ warnnestedvar         off
 xtrace                off
 zle                   on
 ```
-
-## 3. Enable an option
+3. Enable an option
 
 ```bash
 # set -o option-name
@@ -217,7 +216,7 @@ set -v
 # Exact same effect as above.
 ```
 
-## 4. Disable an option
+4. Disable an option
 
 ```bash
 # set +o option-name
@@ -250,7 +249,7 @@ command
 exit 0
 ```
 
-## 5. Print a trace of simple commands (print each command to stdout before executing it)
+5. Print a trace of simple commands (print each command to stdout before executing it)
 
 ```bash
 #!/bin/bash
@@ -260,7 +259,7 @@ set -x
 echo "You will see this line"
 ```
 
-## 6. Prevent overwriting of files by redirection
+6. Prevent overwriting of files by redirection
 
 ```bash
 #!/bin/bash
@@ -271,7 +270,7 @@ echo "$$" > "/tmp/test"
 echo "$$$" > "/tmp/test"
 ```
 
-## 7. Do not resolve symbolic links when performing commands
+7. Do not resolve symbolic links when performing commands
 
 ```bash
 # if /usr/sys is a symbolic link to /usr/local/sys
@@ -286,7 +285,7 @@ cd ..; pwd
 # /usr/local
 ```
 
-## 8. Abort script at first error, when a command exits with non-zero status
+8. Abort script at first error, when a command exits with non-zero status
 
 ```bash
 #!/bin/bash
