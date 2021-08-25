@@ -31,9 +31,9 @@ services:
 ```
 
 ```bash
-docker-compose up -d
-docker inspect foo
-...
+$docker-compose up -d
+$ docker inspect foo
+# result
         "Mounts": [
             {
                 "Type": "bind",
