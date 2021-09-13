@@ -15,9 +15,9 @@ services:
     volumes:
       - ./test:/app:cached # &lt;source&gt;:&lt;dest&gt;:&lt;mode&gt;
       - /app/test # create anonymous volume
-</code></pre><pre class="css-mwhsaa"><code class="language-bash css-tej46y">docker-compose up -d
-docker inspect foo
-...
+</code></pre><pre class="css-mwhsaa"><code class="language-bash css-tej46y">$docker-compose up -d
+$ docker inspect foo
+# result
         &quot;Mounts&quot;: [
             {
                 &quot;Type&quot;: &quot;bind&quot;,
