@@ -11,3 +11,6 @@ Hot keys:
 - Press `s` to open the file in a new vertical split.
 - Press `p` to go to parent directory.
 - Press `r` to refresh the current directory.
+- All other keyboard shortcuts can be found by pressing `?`.
+
+![image](https://user-images.githubusercontent.com/10803803/133021601-4323e99e-7baa-40c3-b870-c77fce61cef9.png)
