@@ -34,4 +34,6 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[vim-sessions]]
 
+- [[vim-plugins]]
+
 - [[python-on-legacy-environment]]
