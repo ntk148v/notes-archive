@@ -12,6 +12,8 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[bash-color-log]]
 
+- [[dotfiles-manager-comparison]]
+
 - [[git-tips-tricks]]
 
 - [[gnome-terminal-tricks]]
