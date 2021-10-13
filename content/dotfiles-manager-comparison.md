@@ -1,5 +1,3 @@
-# Dotfiles manager comparison
-
 Source: https://github.com/twpayne/chezmoi/blob/master/docs/COMPARISON.md
 
 [chezmoi]: https://chezmoi.io/
