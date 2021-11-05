@@ -18,6 +18,8 @@ Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
 - [[gnome-terminal-tricks]]
 
+- [[gtk-css-colors]]
+
 - [[linux-bin-paths]]
 
 - [[linux-useful-trick]]
