@@ -4,42 +4,24 @@ title: About these notes
 
 Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
 
-- [[curl-response-time-format]]
-
-- [[golang-pointer-vs-references]]
-
-- [[docker-tips-tricks]]
-
 - [[bash-color-log]]
-
+- [[curl-response-time-format]]
+- [[docker-tips-tricks]]
 - [[dotfiles-manager-comparison]]
-
-- [[git-tips-tricks]]
-
-- [[gnome-terminal-tricks]]
-
-- [[gtk-css-colors]]
-
-- [[linux-bin-paths]]
-
-- [[linux-useful-trick]]
-
-- [[vim-buffers]]
-
-- [[linux-cpu-utilization]]
-
-- [[linux-recommended-software]]
-
-- [[prometheus-alertmanager-time-based-alert]]
-
 - [[escape-characters]]
-
-- [[rename-files-in-linux]]
-
+- [[git-tips-tricks]]
+- [[gnome-terminal-tricks]]
+- [[golang-pointer-vs-references]]
+- [[gtk-css-colors]]
+- [[linux-bin-paths]]
+- [[linux-commands]]
+- [[linux-cpu-utilization]]
+- [[linux-recommended-software]]
+- [[linux-useful-trick]]
 - [[prometheus-alertmanager-silence]]
-
-- [[vim-sessions]]
-
-- [[vim-plugins]]
-
+- [[prometheus-alertmanager-time-based-alert]]
 - [[python-on-legacy-environment]]
+- [[rename-files-in-linux]]
+- [[vim-buffers]]
+- [[vim-plugins]]
+- [[vim-sessions]]
