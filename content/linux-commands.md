@@ -25,4 +25,4 @@ A dirty copy from HowToGeek
 </tr>
 </tbody>
 </table>
-/div>
+</div>
