@@ -55,3 +55,5 @@ $ docker inspect foo
             }
         ],
 ```
+
+- docker-compose compability.
