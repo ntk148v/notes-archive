@@ -56,4 +56,4 @@ $ docker inspect foo
         ],
 ```
 
-- docker-compose compability.
+- `docker-compose compability`: If set, Compose will attempt to convert keys in v3 files to their non-Swarm equivalent (DEPRECATED).
