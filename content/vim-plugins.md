@@ -1,6 +1,8 @@
-# Vim plugins
+---
+title: Vim plugins
+---
 
-## NERDTree
+## 1. NERDTree
 
 [NERDTree](https://github.com/preservim/nerdtree) is a tree explorer plugin for vim.
 Hot keys:
