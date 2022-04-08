@@ -2,7 +2,7 @@
 title: About these notes
 ---
 
-Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
+Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋. Here are my mess:
 
 - [[bash-color-log]]
 - [[curl-response-time-format]]
