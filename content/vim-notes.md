@@ -17,3 +17,5 @@ title: Vim notes
     inoremap <Tab> <C-t>
     inoremap <S-Tab> <C-d>
     ```
+    
+ - Map Ctrl-S to save file: <https://vim.fandom.com/wiki/Map_Ctrl-S_to_save_current_or_new_files>
