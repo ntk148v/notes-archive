@@ -2,26 +2,55 @@
 title: About these notes
 ---
 
-Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋. Here are my mess:
+Hi, I'm [Kien Nguyen-Tuan](https://github.com/ntk148v/) 👋.
+
+
+- [[set.md.bak]]
+
+- [[linux-recommended-software]]
+
+- [[prometheus-alertmanager-silence]]
 
 - [[bash-color-log]]
-- [[curl-response-time-format]]
-- [[docker-tips-tricks]]
-- [[dotfiles-manager-comparison]]
+
 - [[escape-characters]]
-- [[git-tips-tricks]]
+
+- [[curl-response-time-format]]
+
 - [[gnome-terminal-tricks]]
-- [[golang-pointer-vs-references]]
+
 - [[gtk-css-colors]]
-- [[linux-bin-paths]]
-- [[linux-commands]]
-- [[linux-cpu-utilization]]
-- [[linux-recommended-software]]
+
 - [[linux-useful-trick]]
-- [[prometheus-alertmanager-silence]]
-- [[prometheus-alertmanager-time-based-alert]]
-- [[python-on-legacy-environment]]
-- [[rename-files-in-linux]]
+
+- [[linux-commands]]
+
+- [[wip-drawing-quick-notes]]
+
+- [[golang-pointer-vs-references]]
+
+- [[linux-cpu-utilization]]
+
+- [[dotfiles-manager-comparison]]
+
 - [[vim-buffers]]
-- [[vim-plugins]]
+
+- [[profiling-vim-startup-time]]
+
+- [[prometheus-alertmanager-time-based-alert]]
+
+- [[linux-bin-paths]]
+
 - [[vim-sessions]]
+
+- [[rename-files-in-linux]]
+
+- [[python-on-legacy-environment]]
+
+- [[git-tips-tricks]]
+
+- [[vim-plugins]]
+
+- [[docker-tips-tricks]]
+
+- [[vim-notes]]
