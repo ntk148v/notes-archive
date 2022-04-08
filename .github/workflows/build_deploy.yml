@@ -27,7 +27,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install requirements
-        run: pip install -r jinja2
+        run: pip install jinja2
 
       - name: Update about.md
         run: python scripts/gen_index.py content
