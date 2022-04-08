@@ -7,13 +7,13 @@ title: Vim notes
     - `Ctrl-d` : shift left (mnemonic "de-tab").
     - Change to shift-tab and tab (just like VSCode):
 
-```vim
-" Remap shift left-right
-" for command mode
-nnoremap <Tab> >>
-nnoremap <S-Tab> <<
+    ```vim
+    " Remap shift left-right
+    " for command mode
+    nnoremap <Tab> >>
+    nnoremap <S-Tab> <<
 
-" for insert mode
-inoremap <Tab> <C-t>
-inoremap <S-Tab> <C-d>
-```
+    " for insert mode
+    inoremap <Tab> <C-t>
+    inoremap <S-Tab> <C-d>
+    ```
