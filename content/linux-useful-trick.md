@@ -31,3 +31,9 @@ echo "?#"
 ```bash
 echo "$*"
 ```
+
+6. Create /dev/XX (/dev/zero for example). `mknod` creates the device node, but the VFS detects accesses to the device node and reroutes them to the appropriate driver within the kernel for handling. All device nodes, from `/dev/null` to `/dev/sdX` to `/dev/ttyXX` to `/dev/videoX` are handled this way.
+
+```bash
+mknod /dev/zero
+```
