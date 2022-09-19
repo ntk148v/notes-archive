@@ -7,6 +7,12 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Set safe directory # https://github.com/actions/checkout/issues/760
+        run: |
+          set -x
+          git config --global --add safe.directory $GITHUB_WORKSPACE
+          git config --global --add safe.directory /github/workspace
+
       - name: Checkout 🛎️
         uses: actions/checkout@v2
 
