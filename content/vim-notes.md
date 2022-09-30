@@ -25,3 +25,9 @@ title: Vim notes
 set listchars=tab:\|\ " note: there is a space after the last \ above.
 set list
 ```
+
+- Disable vim automatic visual mode on mouse select:
+
+```vim
+set mouse-=a
+```
