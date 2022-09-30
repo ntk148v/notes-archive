@@ -26,7 +26,7 @@ set listchars=tab:\|\ " note: there is a space after the last \ above.
 set list
 ```
 
-- Disable vim automatic visual mode on mouse select:
+- Disable vim automatic visual mode on mouse select. But note that, this way ends with text copied to clipboard with line numbers, instead you can hold `<SHIFT>` key during selecting terminal text to behave like `set mouse-=a`.
 
 ```vim
 set mouse-=a
